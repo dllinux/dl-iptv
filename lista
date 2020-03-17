@@ -26,12 +26,11 @@ https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist.
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Canais Abertos", RecordTV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos",Record SP
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos",RecordTV SP
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos",Record SP HD
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos",RecordTV SP HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
-
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Canais Abertos", RecordTV Natal
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
@@ -39,23 +38,44 @@ https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playli
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Canais Abertos", RecordTV Rio de Janeiro
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos",RecordTV Rio de Janeiro HD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Canais Abertos", RecordTV Bahia
 https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos", RecordTV Bahia HD
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Canais Abertos", RecordTV Distrito Federal
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Canais Abertos", RecordTV Belo Horizonte
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos", RecordTV Distrito Federal HD
+http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Canais Abertos", RecordTV Minas Gerais
 https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos", RecordTV Minas Gerais HD
+http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Canais Abertos", RecordTV Pará
 https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
 
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos", RecordTV Pará HD
+http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Canais Abertos", RecordTV Goiás
 https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
 
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos", RecordTV Goiás HD
+http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Canais Abertos", RecordTV Rio Grande do Sul
 https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos", RecordTV Rio Grande do Sul HD
+http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
 
 
 
@@ -106,10 +126,10 @@ http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/
 
 ################################################################################# Notícias
 
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News
+#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias", RecordTV News
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News HD
+#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias", RecordTV News HD
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
 
 
