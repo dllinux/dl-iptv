@@ -2,14 +2,14 @@
 
 ################################################################################# Canais Abertos
 
+ 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Canais Abertos", SBT (SP)
+https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Canais Abertos", SBT - TV Jornal (PE)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Canais Abertos", SBT - TV Jornal Caruaru (PE)
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Canais Abertos", SBT Interior SP
-https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Canais Abertos", SBT - TV Jornal Caruaru (PE)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Canais Abertos", SBT - TV Jornal Caruaru (PE) HD
 http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Canais Abertos", SBT - TV Cidade Verde - (PI)
@@ -30,7 +30,7 @@ http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-b.m3u8?PEDROJUN
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Canais Abertos", RecordTV News HD
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias", RecordTV News MA
+#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Canais Abertos", RecordTV News MA
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 
@@ -129,14 +129,8 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIA
 
 
 
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/0y0oNru.png" group-title="Canais Abertos", TV Futura
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?IMDSFULL
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/xDC8Fw7.png" group-title="Canais Abertos", Discovery Channel
-http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1942549659.m3u8?IMDSFULL
-
 
 
 
@@ -163,6 +157,9 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?PE
 
 
 ################################################################################# Variedades
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xDC8Fw7.png" group-title="Variedades", Discovery Channel
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1942549659.m3u8?IMDSFULL
 
 
 
