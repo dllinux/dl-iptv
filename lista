@@ -161,5 +161,11 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?PE
 #EXTINF:0 tvg-logo="https://i.imgur.com/xDC8Fw7.png" group-title="Variedades", Discovery Channel
 http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1942549659.m3u8?IMDSFULL
 
+#EXTINF:-1 type="stream" tvg-id="AXN" tvg-logo="https://i.ibb.co/stn1js5/axnb.png" group-title="Variedades",AXN
+http://lb.kstream.org/aovivo/SD_AXN/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
 
+#EXTINF:-1 type="stream" tvg-id="AXN FHD" tvg-logo="https://i.ibb.co/Lx7T6Ls/axnhdb.png" group-title="Filme e Serie",AXN FHD
+http://lb.kstream.org/aovivo/FHD_AXN/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
 
+#EXTINF:-1 type="stream" tvg-id="AXN HD" tvg-logo="https://i.ibb.co/Lx7T6Ls/axnhdb.png" group-title="Filme e Serie",AXN HD
+http://lb.kstream.org/aovivo/HD_AXN/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
